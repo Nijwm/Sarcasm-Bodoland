@@ -1,18 +1,8 @@
 {
-  "memes": [
-    {
-      "meme_path": "https://goo.gl/hSarhV",
-      "title": "Switw..",
-      "date": "11:30 PM, 27 JAN 2018"
-    },
-    {
-      "meme_path": "https://goo.gl/wawXkN",
-      "title": "Nongwo..",
-      "date": "12:39 AM, 30 DEC 2017"
-    },
+  "memes": {
      {
       "meme_path": "https://goo.gl/H3uRh9",
-      "title": "Happy Magw Domasi..",
+      "title": "Switw...",
       "date": "10:36 PM, 21 APR 2015"
     },
      {
